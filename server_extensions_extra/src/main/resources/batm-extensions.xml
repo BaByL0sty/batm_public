@@ -225,7 +225,7 @@
                 <cryptocurrency>HT</cryptocurrency>
                 <cryptocurrency>ZPAE</cryptocurrency>
                 <cryptocurrency>NANO</cryptocurrency>
-                <cryptocurrency>CLFI</cryptocurrency>
+                <!-- <cryptocurrency>CLFI</cryptocurrency> -->
             </ratesource>
             <ratesource prefix="stream365" name ="365.stream" >
                 <cryptocurrency>HBX</cryptocurrency>
@@ -395,14 +395,14 @@
         <cryptologo cryptocurrency="BTC" file="btc.svg"/>
         <cryptologo cryptocurrency="ETC" file="etc.svg"/>
         <cryptologo cryptocurrency="ETC" file="etc.png"/>
-        <wallet prefix="infuraERC20_CLFI_18_0xC9c8fa88CB57B9E5Cb10e9F72eB75e93E6fC8331" name="Infura.io wallet - CLFI">
+        <!-- <wallet prefix="infuraERC20_CLFI_18_0xC9c8fa88CB57B9E5Cb10e9F72eB75e93E6fC8331" name="Infura.io wallet - CLFI">
             <param name="projectId" />
             <param name="mnemonic" />
             <param name="gaslimit" />
             <help>Mnemonic should be 24 words delimited by spaces. gaslimit is optional</help>
             <cryptocurrency>CLFI</cryptocurrency>
         </wallet>
-        <cryptologo cryptocurrency="CLFI" file="clfi.png"/>
+        <cryptologo cryptocurrency="CLFI" file="clfi.png"/> -->
         <ratesource prefix="coinbasers" name="Coinbase.com Rate Source" >
             <param name="fiatcurrency" />
             <cryptocurrency>ADA</cryptocurrency>
@@ -625,7 +625,7 @@
             <cryptocurrency>XZC</cryptocurrency>
             <cryptocurrency>ZPAE</cryptocurrency>
             <cryptocurrency>GQ</cryptocurrency>
-            <cryptocurrency>CLFI</cryptocurrency>
+            <!-- <cryptocurrency>CLFI</cryptocurrency> -->
         </ratesource>
         <ratesource prefix="coinpaprika" name="CoinPaprika.com">
             <param name="fiatcurrency"/>
